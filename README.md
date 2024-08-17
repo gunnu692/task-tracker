@@ -52,5 +52,18 @@ The Task Tracker application is a simple web application that allows users to cr
 - Click the "Delete" button next to the task you want to remove.
 - The task will be removed from the list.
 
+- ## Screenshots
+# Interface
+![task-tracker-interface](https://github.com/user-attachments/assets/1c730e27-4158-45e0-ab49-11cf27bfe11b)
+
+# Add a New Task
+![task-tracker-add](https://github.com/user-attachments/assets/b03ee2da-fb45-4a62-9880-0f57bf4dc660)
+
+# Edit a Listed Task
+![task-tracker-edit](https://github.com/user-attachments/assets/78f5ea73-ac7d-450b-86ae-397ca2c2bc3b)
+
+# Deleted The Task
+![task-tracker-delete](https://github.com/user-attachments/assets/e260fd5a-0bce-4a78-b9a5-0b1d729d9920)
+
 ## Conclusion
 The Task Tracker application provides a simple and effective way to manage tasks, making it a useful tool for personal organization. Feel free to customize and expand its functionality to suit your needs!
